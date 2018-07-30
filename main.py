@@ -4,7 +4,7 @@ from tkinter import *
 from tkinter import ttk
 
 
-cnx = mysql.connector.connect(host='localhost', user='root', password='fuckthebitch', database='project')
+cnx = mysql.connector.connect(host='localhost', user='root', password='password', database='project')
 #  ..separate cursor for every function
 # decoration baad me
 
